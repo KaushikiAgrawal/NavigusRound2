@@ -38,3 +38,4 @@ The page where all active users can be seen.
 
 Copyright: Kaushiki Agrawal
 
+For a better understanding the screenshots of the pages are uploaded as well.
