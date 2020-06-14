@@ -4,9 +4,11 @@ A Presence service, similar to that of google docs, which shows people that are 
 The website starts from regis.php page.
 
 Tools Used:-
-HTML,CSS,JavaScript
+HTML,CSS,JavaScript.
+
 Backend:-
 PHP,MySQL
+
 Wamp Server version- 1.7.0
 
 Server Configuration
@@ -21,6 +23,7 @@ MySQL version :
 
 Tables in the database:-
 Registration table and Logged in table
+
 Registration page:-
 The User will register through this page after entering some basic information i.e. Fname,lname,Email
 
@@ -34,3 +37,4 @@ Dashboard :-
 The page where all active users can be seen.
 
 Copyright: Kaushiki Agrawal
+
