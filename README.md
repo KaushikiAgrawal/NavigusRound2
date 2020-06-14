@@ -1,7 +1,7 @@
 # NavigusRound2
 A Presence service, similar to that of google docs, which shows people that are currently viewing a particular doc.
 
-The website starts from re.php page.
+The website starts from regis.php page.
 
 Tools Used:-
 HTML,CSS,JavaScript
@@ -19,7 +19,8 @@ PHP version :
 MySQL version :
 5.0.27-community-nt
 
-
+Tables in the database:-
+Registration table and Logged in table
 Registration page:-
 The User will register through this page after entering some basic information i.e. Fname,lname,Email
 
